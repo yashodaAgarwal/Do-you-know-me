@@ -15,6 +15,14 @@ var questions = [{
 {
     question: "Where do I work? ",
     answer: "Google"
+},
+{
+    question: "Where was i born? ",
+    answer: "Haryana"
+},
+{
+    question: "When is my birthday? ",
+    answer: "21/11/98"
 }]
 
 var score = 0;
